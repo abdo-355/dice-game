@@ -1,1 +1,1 @@
-# dice-game
+website: https://abdo-355.github.io/dice-game/
