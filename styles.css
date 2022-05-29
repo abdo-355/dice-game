@@ -32,6 +32,11 @@ img {
   width: 80%;
 }
 
+.refresh {
+  font-family: sans-serif;
+  margin-bottom: 80px;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
